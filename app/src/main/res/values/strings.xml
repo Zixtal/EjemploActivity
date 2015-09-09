@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EjemploActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="uam">Universidad Autooma Metropolitana</string>
+    <string name="enviar">Click Me :o</string>
+    <string name="ac">Hola¡ soy una actividad</string>
+    <string name="ac2">Soy una segunda actividad</string>
+</resources>
